@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O aplicativo Habits ajuda a rastrear e monitorar os hábitos.
 
+- [Visite o projeto online](https://andsupaulo.github.io/HabitsApp/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/smNI5kzdXWFiLKyria4XtH/HabitsApp?t=7tjjH1vEJ2RUdGJ9-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
